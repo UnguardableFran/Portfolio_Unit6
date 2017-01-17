@@ -10,7 +10,8 @@
     h1 {
       font-size: 70px;
         padding: 5px;
-    }
+        color:blue;
+  }
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
@@ -36,3 +37,6 @@
       }
 
      p{ color: red;}
+
+     
+      
